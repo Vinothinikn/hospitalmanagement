@@ -1,0 +1,3 @@
+spring.application.name=Patient_Service
+server.port=9091
+patient.backend.service=http://localhost:9092/patientbackend/register
